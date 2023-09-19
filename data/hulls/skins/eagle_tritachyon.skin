@@ -15,7 +15,7 @@
 	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
 	"removeBuiltInMods":[], 		# hullmod ids
 	"removeBuiltInWeapons":[], 		# weapon slot ids
-	"builtInMods":["insulatedengine","solar_shielding","tt_comp_armor"],
+	"builtInMods":["solar_shielding","tt_comp_armor"],
 	"builtInWeapons":{
     },
     "weaponSlotChanges":{

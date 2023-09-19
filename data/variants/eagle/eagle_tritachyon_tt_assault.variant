@@ -1,7 +1,7 @@
 {
-    "displayName": "Tri-Tachyon",
-    "fluxCapacitors": 6,
-    "fluxVents": 27,
+    "displayName": "Assault (TT)",
+    "fluxCapacitors": 0,
+    "fluxVents": 25,
     "hullId": "eagle_tritachyon",
     "hullMods": [
         "targetingunit",
@@ -12,7 +12,7 @@
     "variantId": "eagle_tritachyon_tt_assault",
     "weaponGroups": [
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
             "weapons": {
                 "WS 007": "kineticblaster",
@@ -28,9 +28,9 @@
             }
         },
         {
-            "autofire": false,
+            "autofire": true,
             "mode": "LINKED",
-            "weapons": {"WS 013": "ioncannon"}
+            "weapons": {"WS 013": "heavyburst"}
         },
         {
             "autofire": true,
@@ -52,15 +52,9 @@
                 "WS 003": "pdlaser",
                 "WS 004": "pdlaser",
                 "WS 010": "pdburst",
+                "WS 011": "pdlaser",
                 "WS 012": "pdburst"
             }
-        },
-        {
-            "autofire": true,
-            "mode": "LINKED",
-            "weapons": {
-                "WS 011": "mininglaser"
-            }
-        },
+        }
     ]
 }
