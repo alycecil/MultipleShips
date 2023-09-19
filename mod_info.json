@@ -1,0 +1,12 @@
+{
+ "id": "alices_mod_extra_ships",
+ "name": "Just Some Extra Ship Versions",
+ "author": "Alice Tries",
+
+ "version": "0.1",
+ "description": "Creates a few extra ship versions for different corporations",
+ "gameVersion": "0.96a-RC10",
+
+ "totalConversion": "false",
+ "utility": "false"
+}

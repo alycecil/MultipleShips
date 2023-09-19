@@ -1,0 +1,8 @@
+{
+    "hullFrequency":{
+        "hulls":{"eagle_tritachyon":0.3},
+    },
+    "knownShips":{
+        "hulls":["eagle_tritachyon"],
+    },
+}
