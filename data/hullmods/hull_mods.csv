@@ -1,5 +1,5 @@
 name,id,tier,rarity,tech/manufacturer,tags,uiTags,base value,unlocked,hidden,hiddenEverywhere,cost_frigate,cost_dest,cost_cruiser,cost_capital,script,desc,short,sModDesc,sprite
-Lightened Armor,tt_comp_armor,,,,,,,,TRUE,,0,0,0,0,data.hullmods.CompromisedArmor,"This ship's armor has been partially stripped in the manufacturing and modification process. Armor rating reduced by %s.
+Lightened Armor,tt_comp_armor,,,,,,,,TRUE,,0,0,0,0,data.hullmods.TTCompromisedArmor,"This ship's armor has been partially stripped in the manufacturing and modification process. Armor rating reduced by %s.
 
 This modification is effected by dmod effectiveness modifiers and can be mitigated that way.",,,graphics/hullmods/tt_compromised_armor.png
 
