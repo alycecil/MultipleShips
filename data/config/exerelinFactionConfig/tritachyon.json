@@ -1,0 +1,12 @@
+{
+    "startShipsCombatLarge":[
+      ["eagle_tritachyon_tt", "omen_PD", "tempest_Attack"],
+      ["eagle_tritachyon_tt_assault", "medusa_Attack"],
+      ["eagle_tritachyon_tt", "wolf_CS", "omen_PD"],
+      ["eagle_tritachyon_tt_assault", "hyperion_Attack"],
+    ],
+    "startShipsSuper":[
+        ["eagle_tritachyon_tt"],
+        ["eagle_tritachyon_tt_assault"],
+    ],
+}

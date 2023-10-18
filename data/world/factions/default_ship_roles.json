@@ -1,5 +1,10 @@
 {
+	"combatMedium": {
+		"eagle_tritachyon_tt":3,
+		"eagle_tritachyon_tt_assault":3,
+	},
 	"combatLarge":{
-		"eagle_tritachyon_tt":5
+		"eagle_tritachyon_tt":5,
+		"eagle_tritachyon_tt_assault":5,
 	}
 }
