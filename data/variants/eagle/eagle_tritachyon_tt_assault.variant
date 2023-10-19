@@ -1,6 +1,6 @@
 {
     "displayName": "Assault (TT)",
-    "fluxCapacitors": 0,
+    "fluxCapacitors": 2,
     "fluxVents": 25,
     "hullId": "eagle_tritachyon",
     "hullMods": [

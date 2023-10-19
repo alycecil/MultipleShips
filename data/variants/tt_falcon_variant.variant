@@ -3,24 +3,24 @@
   "hullId": "tt_falcon",
   "displayName": "New Variant",
   "goalVariant": false,
-  "fluxCapacitors": 15,
+  "fluxCapacitors": 8,
   "fluxVents": 20,
   "quality": 1,
   "permaMods": [],
   "hullMods": [
-    "blast_doors"
+    "targetingunit"
   ],
   "weaponGroups": [
     {
-      "autofire": false,
+      "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS 001": "ioncannon",
-        "WS 002": "ioncannon"
+        "WS 001": "atropos",
+        "WS 002": "atropos"
       }
     },
     {
-      "autofire": false,
+      "autofire": true,
       "mode": "LINKED",
       "weapons": {
         "WS 009": "taclaser",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "autofire": false,
+      "autofire": true,
       "mode": "LINKED",
       "weapons": {
         "WS 005": "gravitonbeam",
@@ -36,30 +36,20 @@
       }
     },
     {
-      "autofire": false,
+      "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS 007": "pilum",
-        "WS 008": "pilum"
+        "WS 007": "kineticblaster",
+        "WS 008": "kineticblaster"
       }
     },
     {
-      "autofire": false,
+      "autofire": true,
       "mode": "LINKED",
       "weapons": {
         "WS 003": "lrpdlaser",
         "WS 004": "lrpdlaser"
       }
-    },
-    {
-      "autofire": false,
-      "mode": "LINKED",
-      "weapons": {}
-    },
-    {
-      "autofire": false,
-      "mode": "LINKED",
-      "weapons": {}
     }
   ],
   "modules": [],
