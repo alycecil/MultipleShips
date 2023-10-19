@@ -2,9 +2,11 @@
 	"combatMedium": {
 		"eagle_tritachyon_tt":3,
 		"eagle_tritachyon_tt_assault":3,
+		"tt_falcon_variant": 7,
 	},
 	"combatLarge":{
 		"eagle_tritachyon_tt":5,
 		"eagle_tritachyon_tt_assault":5,
+		"tt_falcon_variant": 3,
 	}
 }

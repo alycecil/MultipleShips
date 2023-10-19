@@ -2,16 +2,19 @@
     "hullFrequency":{
         "hulls":{
             "eagle_tritachyon":1.3,
+            "tt_falcon":5
         },
     },
     "knownShips":{
         "hulls":[
             "eagle_tritachyon",
+            "tt_falcon",
         ],
     },
     "shipsWhenImporting":{
         "hulls":[
             "eagle_tritachyon",
+            "tt_falcon"
         ],
     },
 }

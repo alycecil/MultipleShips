@@ -151,7 +151,7 @@
   ],
   "engineSlots": [
     {
-      "location": [-86, 41.5],
+      "location": [-89, 41.5],
       "length": 80,
       "width": 16,
       "angle": 180,
@@ -159,7 +159,7 @@
       "style": "HIGH_TECH"
     },
     {
-      "location": [-88, 30.5],
+      "location": [-89.5, 31],
       "length": 80,
       "width": 16,
       "angle": 180,
@@ -167,7 +167,7 @@
       "style": "HIGH_TECH"
     },
     {
-      "location": [-89, 19.5],
+      "location": [-91, 19.5],
       "length": 80,
       "width": 16,
       "angle": 180,
@@ -175,7 +175,7 @@
       "style": "HIGH_TECH"
     },
     {
-      "location": [-88.5, -19.5],
+      "location": [-90.5, -19.5],
       "length": 80,
       "width": 16,
       "angle": 180,
@@ -183,7 +183,7 @@
       "style": "HIGH_TECH"
     },
     {
-      "location": [-86.5, -30],
+      "location": [-90, -30.5],
       "length": 80,
       "width": 16,
       "angle": 180,
@@ -191,7 +191,7 @@
       "style": "HIGH_TECH"
     },
     {
-      "location": [-85, -41],
+      "location": [-89, -41],
       "length": 80,
       "width": 16,
       "angle": 180,
@@ -199,7 +199,7 @@
       "style": "HIGH_TECH"
     },
     {
-      "location": [-34, 75],
+      "location": [-35, 74.5],
       "length": 24,
       "width": 8,
       "angle": 160,
@@ -223,7 +223,7 @@
       "style": "HIGH_TECH"
     },
     {
-      "location": [-34, -75],
+      "location": [-36.5, -74],
       "length": 24,
       "width": 8,
       "angle": 200,
@@ -231,7 +231,7 @@
       "style": "HIGH_TECH"
     },
     {
-      "location": [-39, -65],
+      "location": [-40.5, -65],
       "length": 28,
       "width": 8,
       "angle": 195,
@@ -239,7 +239,7 @@
       "style": "HIGH_TECH"
     },
     {
-      "location": [-44, -55],
+      "location": [-44, -55.5],
       "length": 32,
       "width": 8,
       "angle": 190,
