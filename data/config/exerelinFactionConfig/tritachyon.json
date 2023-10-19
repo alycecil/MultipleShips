@@ -4,9 +4,12 @@
       ["eagle_tritachyon_tt_assault", "medusa_Attack"],
       ["eagle_tritachyon_tt", "wolf_CS", "omen_PD"],
       ["eagle_tritachyon_tt_assault", "hyperion_Attack"],
+      ["tt_falcon_variant", "hyperion_Attack"],
+      ["eagle_tritachyon_tt_assault", "tt_falcon_variant"],
+      ["tt_falcon_variant", "hyperion_Attack"],
     ],
     "startShipsSuper":[
-        ["eagle_tritachyon_tt"],
+        ["tt_falcon_variant"],
         ["eagle_tritachyon_tt_assault"],
     ],
 }
